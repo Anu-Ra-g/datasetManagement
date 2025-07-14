@@ -1,6 +1,6 @@
 # WeatherApp
 
-A Spring Boot application for dataset Management.
+A Spring Boot application for dataset Management with **Factory** design pattern which manages the object creation during the runtime.
 
 ## Features
 
