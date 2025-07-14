@@ -18,8 +18,6 @@ A Spring Boot application for dataset Management.
 - PostgreSQL database up and running
 - Docker for development
 
----
-
 ### Setup Instructions
 
 1. **Clone the repository**
